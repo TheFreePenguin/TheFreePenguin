@@ -3,4 +3,4 @@
 Who am I?
 I'm just a hobbyist coder who writes bash scripts!
 
-I like to install Linux+ distros. (Linux+ meaning Linux, BSD, Haiku, and ReactOS)
+I like to install Linux+ distros, and make it easier to install the hard ones. (Linux+ meaning Linux, BSD, Haiku, and ReactOS)
