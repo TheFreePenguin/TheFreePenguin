@@ -7,3 +7,5 @@ I like to install Linux+ distros, and make it easier to install the hard ones. (
 
 My Projects:
 [Gentoo Installer with More Customization](thefreepenguin.github.io/gentoo-quick-installer)
+
+TEST FOR TEXT
