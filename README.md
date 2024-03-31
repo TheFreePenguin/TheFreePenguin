@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @TheFreePenguin
 - 👀 I’m interested in installing different GNU/Linux distros
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on bash scripts
+- 🌱 I’m currently making Minecraft train systems
 - 📫 How to reach me: my_tiamos on Discord
 
 <!---
