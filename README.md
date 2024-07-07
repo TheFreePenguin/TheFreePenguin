@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @TheFreePenguin
-- 👀 I’m interested in installing different GNU/Linux distros
+- 👀 I’m interested in making train systems in Minecraft MTR
 - 🌱 I’m currently making Minecraft train systems
 - 📫 How to reach me: my_tiamos on Discord
 
